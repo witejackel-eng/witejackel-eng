@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#11161d"/>
+      <stop offset="100%" stop-color="#0a0e14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="55%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="mark-stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1f2630" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <rect width="1200" height="220" fill="url(#grid)" opacity="0.45"/>
+
+  <!-- top accent bar -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent)"/>
+  <rect x="0" y="217" width="1200" height="3" fill="url(#accent)" opacity="0.35"/>
+
+  <!-- left vertical accent -->
+  <rect x="56" y="44" width="3" height="132" fill="url(#accent)"/>
+
+  <!-- username -->
+  <text x="78" y="92" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="40" font-weight="700" fill="#e6edf3" letter-spacing="-1">witejackel-eng</text>
+
+  <!-- title -->
+  <text x="80" y="124" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="#0ea5e9" letter-spacing="0.5">Full-Stack Engineer</text>
+
+  <!-- tagline -->
+  <text x="80" y="156" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="14" font-weight="400" fill="#8b949e">Building production-grade web products — frontend, backend, database, deploy.</text>
+
+  <!-- status pill -->
+  <g transform="translate(80, 170)">
+    <rect x="0" y="0" width="118" height="20" rx="10" fill="none" stroke="#22c55e" stroke-width="1" opacity="0.7"/>
+    <circle cx="11" cy="10" r="3" fill="#22c55e"/>
+    <text x="22" y="14" font-family="ui-sans-serif, system-ui, sans-serif" font-size="10" font-weight="600" fill="#22c55e" letter-spacing="0.5">AVAILABLE FOR WORK</text>
+  </g>
+
+  <!-- right-side geometric mark -->
+  <g transform="translate(1020, 60)">
+    <rect x="0" y="0" width="100" height="100" rx="6" fill="none" stroke="#0ea5e9" stroke-width="1.5"/>
+    <rect x="14" y="14" width="72" height="72" rx="4" fill="none" stroke="url(#mark-stroke)" stroke-width="1.2"/>
+    <rect x="28" y="28" width="44" height="44" rx="2" fill="none" stroke="#f97316" stroke-width="1" opacity="0.8"/>
+    <line x1="0" y1="0" x2="100" y2="100" stroke="#0ea5e9" stroke-width="0.8" opacity="0.35"/>
+    <line x1="100" y1="0" x2="0" y2="100" stroke="#f97316" stroke-width="0.8" opacity="0.35"/>
+    <circle cx="50" cy="50" r="3" fill="#f97316"/>
+  </g>
+
+  <!-- corner ticks -->
+  <g stroke="#30363d" stroke-width="1" fill="none" opacity="0.7">
+    <path d="M 16 16 L 32 16 M 16 16 L 16 32"/>
+    <path d="M 1184 16 L 1168 16 M 1184 16 L 1184 32"/>
+    <path d="M 16 204 L 32 204 M 16 204 L 16 188"/>
+    <path d="M 1184 204 L 1168 204 M 1184 204 L 1184 188"/>
+  </g>
+</svg>
