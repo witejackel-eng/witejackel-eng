@@ -1,100 +1,191 @@
 <p align="center">
-  <img src="./assets/hero-banner.svg" alt="witejackel-eng — Full-Stack Engineer" width="100%" />
+  <img src="./assets/hero-banner.svg" alt="Aditya — Web Designer & Full-Stack Developer" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=560&lines=I+build+complete+systems+%E2%80%94+not+just+UI" alt="Typing SVG" />
-</p>
+I design and build websites and web products that convert — from strategy and interface design through code, integrations, and deployment. I work with businesses in India and internationally, creating sites that make the offer clear, establish credibility, and give visitors an obvious path to contact.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=witejackel-eng&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Production_Systems-f97316?style=flat-square&labelColor=0d1117" alt="Focus" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Available_For_Work-22c55e?style=flat-square&labelColor=0d1117" alt="Status" />
-</p>
+My work sits at the intersection of visual design and full-stack engineering: every project is designed intentionally and built to work reliably under real conditions.
 
-<p align="center">
-  <sub>Building production-grade websites, dashboards, ecommerce systems, and lead-generation platforms.</sub>
+---
+
+### Primary Actions
+
+<p align="left">
+  <a href="https://dev-aditya-com.vercel.app"><strong>View Portfolio</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:witejackel@gmail.com"><strong>Email Me</strong></a>
 </p>
 
 ---
 
-### What I Build
+### Selected Work
 
-I build websites and web apps that are meant to be shipped — frontend, backend, database, auth, payments, dashboards, SEO, and deployment.
+#### 01 — IBS.com
 
-- **Corporate websites** — fast, SEO-ready, conversion-focused
-- **Ecommerce platforms** — product catalogs, cart, checkout, payments
-- **Lead-generation platforms** — CMS, admin tools, pipelines
-- **Analytics dashboards** — real-time data, clean visual systems
-- **Portfolio & interactive frontends** — 3D / WebGL / motion experiments
-
----
-
-### Featured Projects
-
-| Project | What it is | Stack | Status |
-|:--------|:-----------|:------|:------:|
-| [**IBS.com**](https://github.com/witejackel-eng/IBS.com) | Corporate site for a comms / network / security integrator. Next.js, WhatsApp Cloud API, SEO, admin CMS, security headers, rate-limited contact flow. | `Next.js` `TypeScript` `Prisma` `WhatsApp API` | Live |
-| [**Ecom-website**](https://github.com/witejackel-eng/Ecom-website) | Ecommerce storefront for CP Plus CCTV & eSSL biometric security — product catalogs, cart, checkout, payment flow. | `Next.js` `TypeScript` `Prisma` `PostgreSQL` | Shipped |
-| [**corporate-leadgen-platform**](https://github.com/witejackel-eng/corporate-leadgen-platform) | Lead-gen SaaS with CMS, blog, ABM tools, pipeline management. Full auth, database, admin panels — the whole stack. | `Next.js` `Prisma` `PostgreSQL` `WebGL` | Shipped |
-| [**pulse-analytics-dashboard**](https://github.com/witejackel-eng/pulse-analytics-dashboard) | Real-time analytics dashboard with SSE streaming, lazy-loaded charts, and pipeline management. | `Next.js` `TypeScript` `Recharts` `SSE` | Shipped |
-| [**Aditya-portfolio**](https://github.com/witejackel-eng/Aditya-portfolio) | Developer portfolio with 3D WebGL hero, Framer Motion page transitions, and Lenis smooth scrolling. | `Next.js` `Three.js` `Framer Motion` | Live |
-| [**AADI-CARD**](https://github.com/witejackel-eng/AADI-CARD) | Interactive 3D digital business card with GSAP animations and CSS 3D transforms. | `React` `GSAP` `Vite` `CSS 3D` | Live |
-
----
-
-### Stack I Live In
-
-| Layer | Tools |
-|:------|:------|
-| **Frontend** | `Next.js` &nbsp; `React` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `Framer Motion` |
-| **Backend** | `Node.js` &nbsp; `Prisma` &nbsp; `PostgreSQL` &nbsp; `Next.js API Routes` &nbsp; `Resend` |
-| **UI / Motion** | `shadcn/ui` &nbsp; `Three.js` &nbsp; `WebGL` &nbsp; `GSAP` |
-| **Deployment** | `Vercel` &nbsp; `GitHub` &nbsp; `Hostinger` |
-| **Tools** | `Git` &nbsp; `VS Code` &nbsp; `Claude Code` &nbsp; `Z-AI` |
-
----
-
-### Build Philosophy
-
-- **Real projects over toy apps** — production loads, real data, real users.
-- **Clean UI backed by real systems** — not just pretty pixels.
-- **Fast pages, clear copy, secure forms** — speed, clarity, and safety are features.
-- **Ship, test, polish, repeat** — launch-ready beats perfect-but-stuck.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=witejackel-eng&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=f97316&text_color=e6edf3&ring_color=0ea5e9&line_height=28" height="168" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=witejackel-eng&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=e6edf3&langs_count=8" height="168" alt="Top languages" />
+<p>
+  <img src="./assets/projects/ibs.png" alt="IBS.com — Corporate website for Insight Business Solutions" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=witejackel-eng&theme=dark&hide_border=true&background=0d1117&ring=0ea5e9&fire=f97316&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=8b949e" height="168" alt="GitHub streak" />
-</p>
+Corporate website for Insight Business Solutions — an AV, IT infrastructure, and communications integrator in Delhi NCR. Built with a WhatsApp Cloud API contact flow, admin CMS, SEO architecture, security headers, and rate-limited form submissions.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=witejackel-eng&theme=react-dark&bg_color=0d1117&color=0ea5e9&line=f97316&point=0ea5e9&hide_border=true&area_color=0ea5e9&area=true" width="92%" alt="Contribution graph" />
+**Role:** Design + Full-stack development
+
+- Live deployment handling real client traffic
+- WhatsApp Cloud API integration for instant business inquiries
+- Prisma CMS with admin panel for content management
+- SEO-optimized with structured data and security headers
+
+**Stack:** `Next.js` `TypeScript` `Prisma` `PostgreSQL` `WhatsApp API` `Three.js`
+
+<p>
+  <a href="https://ibsinfra.com"><strong>Live Site</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/witejackel-eng/IBS.com"><strong>Source</strong></a>
 </p>
 
 ---
 
-### Contact
+#### 02 — Driftwear
+
+<p>
+  <img src="./assets/projects/driftwear.png" alt="Driftwear — Ecommerce storefront" width="100%" />
+</p>
+
+Full-stack ecommerce storefront with product filtering, cart drawer, checkout flow, and SEO-optimized product pages. Designed for a streetwear and lifestyle brand with free-source imagery and conversion-focused UX.
+
+**Role:** Design + Full-stack development
+
+- Product catalog with intelligent filtering and search
+- Cart drawer and multi-step checkout flow
+- SEO pages for every product category
+- Conversion-optimized layout with responsive design
+
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+<p>
+  <a href="https://driftwear-ecommerce.vercel.app"><strong>Live Site</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/witejackel-eng/driftwear-ecommerce"><strong>Source</strong></a>
+</p>
+
+---
+
+#### 03 — Corporate Lead-Generation Platform
+
+<p>
+  <img src="./assets/projects/corporate-leadgen.png" alt="Corporate Lead-Generation Platform — B2B SaaS" width="100%" />
+</p>
+
+B2B lead-generation SaaS with CMS, blog, account-based marketing tools, and pipeline management. Full authentication, database design, admin panels, and a WebGL-enhanced landing experience — the complete stack.
+
+**Role:** Design + Full-stack development
+
+- NextAuth authentication with role-based access
+- Tiptap rich-text CMS for blog and landing pages
+- ABM tools and pipeline management dashboard
+- WebGL landing page with shader-based visuals
+
+**Stack:** `Next.js` `Prisma` `PostgreSQL` `NextAuth` `WebGL` `Tiptap`
+
+<p>
+  <a href="https://leadgen-platform.vercel.app"><strong>Live Site</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/witejackel-eng/corporate-leadgen-platform"><strong>Source</strong></a>
+</p>
+
+---
+
+#### 04 — Pulse Analytics
+
+<p>
+  <img src="./assets/projects/pulse-analytics.png" alt="Pulse Analytics — Real-time dashboard" width="100%" />
+</p>
+
+Real-time SaaS analytics dashboard with server-sent events streaming, lazy-loaded chart visualizations, and pipeline management. Built for enterprise data visibility with clean, scannable interface design.
+
+**Role:** Design + Full-stack development
+
+- SSE streaming for live data updates
+- Lazy-loaded Recharts visualizations for performance
+- Pipeline management with drag-and-drop
+- Clean, enterprise-grade interface design
+
+**Stack:** `Next.js` `TypeScript` `Recharts` `SSE` `Prisma`
+
+<p>
+  <a href="https://pulse-aadi-project.vercel.app"><strong>Live Site</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/witejackel-eng/pulse-analytics-dashboard"><strong>Source</strong></a>
+</p>
+
+---
+
+### What I Help Businesses Build
+
+**Business Websites** — Sites that make the offer clear, establish trust, and create an obvious path to contact. Not templates — designed around the specific business and its audience.
+
+**Ecommerce Experiences** — Product catalogs, cart systems, and checkout flows built to convert. From filtering and search to payment integration, every step is intentional.
+
+**AI-Assisted Lead Systems** — Lead capture, qualification, and pipeline management with smart forms, WhatsApp integration, and admin dashboards that turn traffic into conversations.
+
+**Interactive WebGL Experiences** — Procedural landscapes, shader-based visuals, and 3D interfaces that make a project memorable. Built with graceful fallbacks for every browser.
+
+---
+
+### Engineering Proof
+
+Verified from source code and live deployments:
+
+- **TypeScript strict mode** across all projects
+- **Authentication systems** with NextAuth and role-based access
+- **WhatsApp Cloud API** integration for business messaging
+- **Payment-ready** checkout flows with cart state management
+- **Database design** with Prisma ORM and PostgreSQL
+- **Security headers** and rate limiting on contact forms
+- **SEO metadata** and structured data on public pages
+- **Responsive design** tested across breakpoints
+- **WebGL with fallback behavior** for unsupported browsers
+- **SSE streaming** for real-time dashboard data
+- **CMS integration** with rich-text editing (Tiptap)
+- **Deployment automation** via Vercel with preview deployments
+
+---
+
+### Technology
 
 | | |
 |:---|:---|
-| **GitHub** | [@witejackel-eng](https://github.com/witejackel-eng) |
-| **Portfolio** | _coming soon_ |
-| **LinkedIn** | _coming soon_ |
-| **Email** | _see profile bio_ |
+| **Interface** | Next.js · React · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui |
+| **Systems** | Prisma · PostgreSQL · NextAuth · Next.js API Routes · SSE |
+| **Motion & 3D** | Three.js · WebGL · GSAP · CSS 3D Transforms |
+| **Infrastructure** | Vercel · GitHub · Resend |
 
 ---
 
-<p align="center">
-  <sub>Built and shipped by <strong>witejackel-eng</strong>. &nbsp;Production over hype.</sub>
+### How I Work
+
+**01 Understand** — Learn the business, its audience, and what the website needs to accomplish.
+
+**02 Design** — Create the interface around the content and the conversion path, not around trends.
+
+**03 Build** — Write the code, wire the backend, connect the integrations.
+
+**04 Test** — Check responsiveness, accessibility, performance, and edge cases.
+
+**05 Deploy** — Ship to production with monitoring, then iterate based on real usage.
+
+---
+
+### Current Focus
+
+- AI-powered business websites with smart lead capture
+- Conversion-focused ecommerce for product brands
+- Full-stack product systems with authentication and CMS
+- Creative WebGL development with graceful fallbacks
+
+---
+
+<p align="left">
+  <strong>Need a website that works as hard as your business?</strong><br/>
+  <a href="mailto:witejackel@gmail.com">witejackel@gmail.com</a>
 </p>
