@@ -1,92 +1,39 @@
-<p align="center">
-  <img src="./assets/identity.svg" alt="Aditya — Web Systems / Interfaces / Experiments" width="480" />
-</p>
+# Hi, I'm Aditya.
 
-I work across web design, frontend engineering, full-stack systems, and interactive environments. Most of what I build uses Next.js and TypeScript, but the interesting parts tend to be the WebGL scenes, motion systems, content architectures, and deployment pipelines that hold everything together.
+I design and build business websites, ecommerce platforms, and digital products. My work covers interface design, frontend engineering, full-stack implementation, and deployment — from the initial information architecture through to a production site handling real traffic.
 
----
+Based in Delhi, India. Working remotely with organisations across India and internationally.
 
-### Current Field
+## Selected work
 
-Lately I have been working on mathematical visual systems, procedural audio, and cinematic web environments. The goal is to build interactive experiences where the underlying logic is visible and controllable, not just decorative.
+**[IBS Infra](https://github.com/witejackel-eng/IBS.com)** — Corporate website for an AV and IT infrastructure integrator. Reorganised six service divisions into one coherent sales journey. Built a Prisma CMS with admin panel, WhatsApp Cloud API contact flow, SEO architecture, and security headers. [Live →](https://ibsinfra.com)
 
----
+**[DeviceDestination](https://github.com/witejackel-eng/DeviceDestination)** — Full-stack ecommerce platform for CCTV and biometric security equipment. Model-verified product pages, comparison tools, cart, checkout, and payment flow designed for buyers who arrive knowing the exact model they need. [Live →](https://device-destination-rose.vercel.app)
 
-### Selected Repositories
+**[CloudSun](https://github.com/witejackel-eng/cloudsun)** — Multi-tenant call-centre CRM and operations platform for organisations with 10 to 200 agents. 24 routes across three roles, live queue management, agent states, escalations, and reporting — designed so operators can read the workspace instead of scanning it. [Live →](https://cloudsun-aditya-snowy.vercel.app)
 
-**01 / DUST//SIGNAL**
-Interactive computational environment using Three.js, custom GLSL shaders, GSAP, Web Audio API, and seeded mathematical simulations. Includes stochastic models, a Monte Carlo chamber, and a procedural sequencer.
+**[Bharat Electrosafe](https://github.com/witejackel-eng/bharat-electrosafe)** — Industrial B2B website for an electrical safety product manufacturer. Product families, certifications, and specifications reorganised so engineers can compare, qualify, and request a quotation without calling first. [Live →](https://bharat-electrosafe.vercel.app)
 
-[Repository](https://github.com/witejackel-eng/dune) · [Live](https://dune-aditya.vercel.app)
-`Next.js / TypeScript / Three.js / GLSL / GSAP / Web Audio`
+**[Saffron & Steam](https://github.com/witejackel-eng/saffron-steam-experience)** — Hospitality brand experience for a Delhi garden café. Art direction, WebGL hero scene, editorial typography, and motion designed to sell the atmosphere before the first cup. [Live →](https://saffron-steam-experience.vercel.app)
 
----
+**[Aarohan Legal](https://github.com/witejackel-eng/aarohan-legal)** — Website for a boutique Indian legal practice. Procedural WebGL visuals, editorial layout, and a content system designed for compliance-aware review — built without the testimonials and stock photography that legal websites typically rely on. [Live →](https://aarohan-legal.vercel.app)
 
-**02 / Saffron & Steam**
-Immersive café website with a WebGL hero scene, editorial typography, day-to-night scroll sequences, and an interactive signature-menu rail. Built around a Delhi garden café at golden hour.
+## What I work on
 
-[Repository](https://github.com/witejackel-eng/saffron-steam-experience) · [Live](https://saffron-steam-experience.vercel.app)
-`Next.js / TypeScript / Three.js / GSAP`
+- Interface and product design
+- Frontend and full-stack development
+- Corporate and industrial websites
+- Ecommerce systems and checkout flows
+- SaaS dashboards and operational tools
+- CMS, APIs, databases, payments, and deployment
+- Motion, WebGL, and interactive experiences
 
----
+## Approach
 
-**03 / Aarohan Legal**
-Editorial website for a boutique Indian legal practice. Procedural WebGL sculpture, custom practice-area illustrations, full-screen navigation, and a content system designed for careful legal review.
+I focus on clear information architecture, responsive implementation, and useful rather than decorative motion. Every dependency needs to justify its place. A project that works locally but breaks in production is not finished. I build for the people who will use the result, not for a portfolio screenshot.
 
-[Repository](https://github.com/witejackel-eng/aarohan-legal) · [Live](https://aarohan-legal.vercel.app)
-`Next.js / TypeScript / Three.js / React Three Fiber / Framer Motion`
+## Contact
 
----
-
-**04 / IBS.com**
-Corporate website for an AV and IT infrastructure integrator. WhatsApp Cloud API contact flow, Prisma CMS with admin panel, SEO architecture, and security headers. Handles real client traffic on a custom domain.
-
-[Repository](https://github.com/witejackel-eng/IBS.com) · [Live](https://ibsinfra.com)
-`Next.js / TypeScript / Prisma / PostgreSQL / WhatsApp API`
-
----
-
-**05 / Corporate Lead-Gen Platform**
-B2B lead-generation SaaS with CMS, blog, account-based marketing tools, and pipeline management. NextAuth authentication, Tiptap rich-text editor, and a WebGL-enhanced landing experience.
-
-[Repository](https://github.com/witejackel-eng/corporate-leadgen-platform) · [Live](https://corporate-leadgen-platform-jet.vercel.app)
-`Next.js / Prisma / PostgreSQL / NextAuth / WebGL / Tiptap`
-
----
-
-**06 / Portfolio**
-The site you might have arrived from. Single-page portfolio with case studies, an SEO audit tool, and a contact system. Next.js 16, Tailwind CSS, Framer Motion, and a Vercel deployment.
-
-[Repository](https://github.com/witejackel-eng/dev-aditya.com) · [Live](https://dev-aditya-nine.vercel.app)
-`Next.js / TypeScript / Tailwind CSS / Framer Motion`
-
----
-
-### Systems Index
-
-`Interface systems` — Layouts, typography, component architecture, responsive design
-`Interactive 3D` — Three.js, GLSL shaders, procedural environments, Canvas 2D
-`Full-stack applications` — Authentication, databases, API routes, CMS
-`Ecommerce` — Product catalogs, cart systems, checkout flows
-`Dashboards` — Real-time data, SSE streaming, chart visualizations
-`Motion` — GSAP, Framer Motion, scroll-driven animation, page transitions
-`SEO and metadata` — Structured data, Open Graph, sitemaps, security headers
-`Deployment` — Vercel, custom domains, preview deployments, environment config
-
----
-
-### Working Principles
-
-Interfaces should explain themselves. If a user has to guess what to do next, the layout failed.
-
-Motion should support structure. Animation that does not serve readability or navigation is noise.
-
-Dependencies must justify their presence. Every library in `package.json` should be traceable to a feature.
-
-A deployment is part of the product. A project that builds locally but breaks in production is not finished.
-
-Documentation should reflect the actual system. READMEs that describe a planned feature instead of a shipped one are misleading.
-
----
-
-<sub>Elsewhere: [portfolio](https://dev-aditya-nine.vercel.app) / [email](mailto:hi.aditya.dev@gmail.com) / [github](https://github.com/witejackel-eng)</sub>
+- Portfolio: [dev-aditya.com](https://dev-aditya.com)
+- Email: [work@dev-aditya.com](mailto:work@dev-aditya.com)
+- GitHub: [witejackel-eng](https://github.com/witejackel-eng)
